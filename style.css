@@ -1,0 +1,15 @@
+.cabecalho{
+    background-color: aquamarine;
+    color: rgb(50, 13, 13);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 24px 0;
+}
+.cabecalho-imagem{
+    width: 10%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
